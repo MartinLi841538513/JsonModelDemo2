@@ -1,0 +1,13 @@
+PODS:
+  - JSONModel (1.0.1)
+  - SVProgressHUD (1.0)
+
+DEPENDENCIES:
+  - JSONModel
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  JSONModel: 634100aaacbd89811bc8a03da209356e5989c569
+  SVProgressHUD: 5034c6e22b8c2ca3e09402e48d41ed0340aa1c50
+
+COCOAPODS: 0.33.1
